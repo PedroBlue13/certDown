@@ -11,7 +11,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from anticaptchaofficial.recaptchav2proxyless import recaptchaV2Proxyless
 import time
 
-API_KEY = "1097d71f9d7f27b94dbb5a4ea58cfe62"
+API_KEY = "YOU-API-KEY"
 
 def update_status(message):
     status_label.config(text=message)
